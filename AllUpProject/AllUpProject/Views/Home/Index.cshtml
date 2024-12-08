@@ -1,14 +1,15 @@
 ﻿@model HomeViewModel
 
+
 <section class="slider-area slider-active">
    
-    @foreach(var Slider in Model.Products)
+    @foreach(Slider Slider in Model.Sliders)
     {
         <!-- single slider -->
 
         <div class="single-slider">
             <div class="slider-image">
-                <img src="assets/images/slider-1.jpg" alt="slider" />
+                <img src="~/assets/images/slider-1.jpg" alt="slider" />
             </div>
             <div class="slider-content-wrapper">
                 <div class="container-fluid custom-container">
@@ -21,11 +22,10 @@
                         <h1 data-animation="fadeInLeft"
                             data-delay="0.5s"
                             class="main-title">
-                            <span>@Slider.Brand </span> Fulldive VR.
+                            <span></span> @Slider.Subtitle
                         </h1>
                         <p data-animation="fadeInRightBig" data-delay="0.5s">
-                            Explore and immerse in exciting 360 content with Fulldive’s
-                            all-in-one virtual reality platform
+                           @Slider.Title
                         </p>
                         <a data-animation="zoomIn"
                            data-delay="0.5s"

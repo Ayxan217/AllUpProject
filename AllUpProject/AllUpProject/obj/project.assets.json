@@ -7600,11 +7600,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\source\\repos\\AllUpProject\\AllUpProject\\AllUpProject.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\AllUpProject.csproj",
       "projectName": "AllUpProject",
-      "projectPath": "C:\\Users\\pc\\source\\repos\\AllUpProject\\AllUpProject\\AllUpProject.csproj",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\AllUpProject.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\pc\\source\\repos\\AllUpProject\\AllUpProject\\obj\\",
+      "outputPath": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
