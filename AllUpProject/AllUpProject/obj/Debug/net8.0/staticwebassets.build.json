@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gibN/2p7BNXsRjQNHQgGllggVTK9J7hnN3ikCks6I88=",
+  "Hash": "fIaCO/0Wn92bU5lAcKvCAcpljQoa8LdVaT8I58CiJg8=",
   "Source": "AllUpProject",
   "BasePath": "_content/AllUpProject",
   "Mode": "Default",
@@ -1936,25 +1936,6 @@
       "OriginalItemSpec": "wwwroot\\assets\\fonts\\ionicons28b5.woff"
     },
     {
-      "Identity": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\assets\\images\\0ecc5b75-aa15-45a1-a413-a63a75a85c49.webp",
-      "SourceId": "AllUpProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\",
-      "BasePath": "_content/AllUpProject",
-      "RelativePath": "assets/images/0ecc5b75-aa15-45a1-a413-a63a75a85c49.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\0ecc5b75-aa15-45a1-a413-a63a75a85c49.webp"
-    },
-    {
       "Identity": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\assets\\images\\1a500dae-a78a-4478-81d3-b07f9178a3b0.jpg",
       "SourceId": "AllUpProject",
       "SourceType": "Discovered",
@@ -1974,12 +1955,12 @@
       "OriginalItemSpec": "wwwroot\\assets\\images\\1a500dae-a78a-4478-81d3-b07f9178a3b0.jpg"
     },
     {
-      "Identity": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\assets\\images\\34c4a0a2-18e4-4e90-85ae-d9aa4d1f3c06.jpg",
+      "Identity": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\assets\\images\\3ae9c44f-cff0-4f5d-bd10-986092093a87.webp",
       "SourceId": "AllUpProject",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\",
       "BasePath": "_content/AllUpProject",
-      "RelativePath": "assets/images/34c4a0a2-18e4-4e90-85ae-d9aa4d1f3c06.jpg",
+      "RelativePath": "assets/images/3ae9c44f-cff0-4f5d-bd10-986092093a87.webp",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Primary",
@@ -1990,7 +1971,26 @@
       "AssetTraitValue": "",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\34c4a0a2-18e4-4e90-85ae-d9aa4d1f3c06.jpg"
+      "OriginalItemSpec": "wwwroot\\assets\\images\\3ae9c44f-cff0-4f5d-bd10-986092093a87.webp"
+    },
+    {
+      "Identity": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\assets\\images\\467f8d68-20f4-4e38-94ed-e4c56d8cc320.jpg",
+      "SourceId": "AllUpProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\",
+      "BasePath": "_content/AllUpProject",
+      "RelativePath": "assets/images/467f8d68-20f4-4e38-94ed-e4c56d8cc320.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\images\\467f8d68-20f4-4e38-94ed-e4c56d8cc320.jpg"
     },
     {
       "Identity": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\assets\\images\\7de3e1b9-2ec3-4c8a-a397-a74baef28fc4.jpg",
@@ -2048,25 +2048,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\9d861232-4713-4cad-94e9-4dd4ec448f9b.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\assets\\images\\a39db01a-6731-43e3-a388-500291a62861.webp",
-      "SourceId": "AllUpProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\",
-      "BasePath": "_content/AllUpProject",
-      "RelativePath": "assets/images/a39db01a-6731-43e3-a388-500291a62861.webp",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\a39db01a-6731-43e3-a388-500291a62861.webp"
     },
     {
       "Identity": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\assets\\images\\a5927a7f-bf11-48aa-accd-69b5944dbc16.jpg",
@@ -2238,25 +2219,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\images\\banner-13.jpg"
-    },
-    {
-      "Identity": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\assets\\images\\banner-2.png",
-      "SourceId": "AllUpProject",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\",
-      "BasePath": "_content/AllUpProject",
-      "RelativePath": "assets/images/banner-2.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "AssetMergeBehavior": "PreferTarget",
-      "AssetMergeSource": "",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\assets\\images\\banner-2.png"
     },
     {
       "Identity": "C:\\Users\\pc\\OneDrive\\Masaüstü\\AllUpProject\\AllUpProject\\AllUpProject\\wwwroot\\assets\\images\\banner-3.jpg",

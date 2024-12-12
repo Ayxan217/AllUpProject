@@ -34,5 +34,40 @@ namespace AllUpProject.Utils
             return fileName;
         }
 
+        public static bool ValidateType(this IFormFile file, string type)
+        {
+            if (file.ContentType.Contains(type))
+            {
+                return true;
+            }
+            return false;
+        }
+
+        public static bool ValidateSize(this IFormFile file, FileSize fileSize, int size)
+        {
+            switch (fileSize)
+            {
+                case FileSize.Kb:
+                    return file.Length <= size * 1024;
+                case FileSize.Mb:
+                    return file.Length <= size * 1024 * 1024;
+                case FileSize.Gb:
+                    return file.Length <= size * Math.Pow(1024, 3);
+
+            }
+            return false;
+        }
+
+      
+
+        public static void DeleteImage(this string fileName, params string[] roots)
+        {
+
+
+            string path = BuildPath(fileName, roots);
+
+            File.Delete(path);
+        }
+
     }
 }

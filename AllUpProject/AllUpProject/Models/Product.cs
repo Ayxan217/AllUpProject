@@ -1,6 +1,8 @@
-﻿namespace AllUpProject.Models
+﻿using AllUpProject.Models.Base;
+
+namespace AllUpProject.Models
 {
-    public class Product
+    public class Product : BaseEntity
     {
         public int Id { get; set; }
         public string Name { get; set; }

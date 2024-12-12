@@ -1,9 +1,11 @@
-﻿namespace AllUpProject.Models
+﻿using AllUpProject.Models.Base;
+
+namespace AllUpProject.Models
 {
-    public class Category
+    public class Category : BaseEntity
     {
         public int Id { get; set; }
-        public int Name { get; set; }
+        public string Name { get; set; }
         public List<Product>? Products { get; set; }
     }
 }
