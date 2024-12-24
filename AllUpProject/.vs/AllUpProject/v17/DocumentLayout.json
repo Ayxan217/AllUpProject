@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\utils\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\utils\\enums\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\viewmodels\\registervm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\viewmodels\\loginvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\areas\\admin\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\migrations\\20241210152244_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -75,10 +99,6 @@
       "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|c:\\users\\pc\\onedrive\\masa\u00FCst\u00FC\\allupproject\\allupproject\\allupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{FEBFE02F-DDC8-4636-A350-1289D51784A3}|AllUpProject\\AllUpProject.csproj|solutionrelative:allupproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -130,15 +150,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Utils\\Enums\\UserRole.cs",
+              "RelativeDocumentMoniker": "AllUpProject\\Utils\\Enums\\UserRole.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Utils\\Enums\\UserRole.cs",
+              "RelativeToolTip": "AllUpProject\\Utils\\Enums\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:56:23.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterVM.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\ViewModels\\RegisterVM.cs",
+              "RelativeDocumentMoniker": "AllUpProject\\ViewModels\\RegisterVM.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\ViewModels\\RegisterVM.cs",
+              "RelativeToolTip": "AllUpProject\\ViewModels\\RegisterVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:53:45.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginVM.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\ViewModels\\LoginVM.cs",
+              "RelativeDocumentMoniker": "AllUpProject\\ViewModels\\LoginVM.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\ViewModels\\LoginVM.cs",
+              "RelativeToolTip": "AllUpProject\\ViewModels\\LoginVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:53:06.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "AllUpProject\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Models\\AppUser.cs",
+              "RelativeToolTip": "AllUpProject\\Models\\AppUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:51:19.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "AllUpProject\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "AllUpProject\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAywAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T08:49:28.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Controllers\\ProductController.cs",
@@ -151,43 +232,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "20241210152244_Update.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Migrations\\20241210152244_Update.cs",
-              "RelativeDocumentMoniker": "AllUpProject\\Migrations\\20241210152244_Update.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Migrations\\20241210152244_Update.cs",
-              "RelativeToolTip": "AllUpProject\\Migrations\\20241210152244_Update.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:22:44.829Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "20241127143550_CreateImageColumn.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Migrations\\20241127143550_CreateImageColumn.cs",
-              "RelativeDocumentMoniker": "AllUpProject\\Migrations\\20241127143550_CreateImageColumn.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Migrations\\20241127143550_CreateImageColumn.cs",
-              "RelativeToolTip": "AllUpProject\\Migrations\\20241127143550_CreateImageColumn.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:19:55.371Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 13,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Models\\Slider.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Models\\Slider.cs",
               "RelativeToolTip": "AllUpProject\\Models\\Slider.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAIBCwBIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA6wBIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T14:28:53.05Z"
+              "WhenOpened": "2024-12-04T14:28:53.05Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 14,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Models\\Base\\BaseEntity.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Models\\Base\\BaseEntity.cs",
@@ -195,11 +253,12 @@
               "RelativeToolTip": "AllUpProject\\Models\\Base\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:28:54.091Z"
+              "WhenOpened": "2024-12-10T14:28:54.091Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\DAL\\AppDbContext.cs",
               "RelativeDocumentMoniker": "AllUpProject\\DAL\\AppDbContext.cs",
@@ -212,33 +271,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "SliderController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Controllers\\SliderController.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Controllers\\SliderController.cs",
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\Controllers\\SliderController.cs",
-              "ViewState": "AgIAAGMAAAAAAAAAAAA2wF0AAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAIBCwF0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T14:22:48.117Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Models\\Product.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Models\\Product.cs",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Models\\Product.cs",
               "RelativeToolTip": "AllUpProject\\Models\\Product.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBTwAoAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T13:15:15.52Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Controllers\\HomeController.cs",
@@ -246,11 +305,51 @@
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-25T13:52:06.302Z"
+              "WhenOpened": "2024-11-25T13:52:06.302Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "AllUpProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "AllUpProject\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAmwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T13:43:01.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241127143550_CreateImageColumn.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Migrations\\20241127143550_CreateImageColumn.cs",
+              "RelativeDocumentMoniker": "AllUpProject\\Migrations\\20241127143550_CreateImageColumn.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Migrations\\20241127143550_CreateImageColumn.cs",
+              "RelativeToolTip": "AllUpProject\\Migrations\\20241127143550_CreateImageColumn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:19:55.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20241210152244_Update.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Migrations\\20241210152244_Update.cs",
+              "RelativeDocumentMoniker": "AllUpProject\\Migrations\\20241210152244_Update.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Migrations\\20241210152244_Update.cs",
+              "RelativeToolTip": "AllUpProject\\Migrations\\20241210152244_Update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T15:22:44.829Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "20241210152135_UpdateColumn.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Migrations\\20241210152135_UpdateColumn.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Migrations\\20241210152135_UpdateColumn.cs",
@@ -258,11 +357,12 @@
               "RelativeToolTip": "AllUpProject\\Migrations\\20241210152135_UpdateColumn.cs",
               "ViewState": "AgIAABYAAAAAAAAAAAA2wAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:21:35.691Z"
+              "WhenOpened": "2024-12-10T15:21:35.691Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 15,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
@@ -270,11 +370,12 @@
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T14:24:29.491Z"
+              "WhenOpened": "2024-12-04T14:24:29.491Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
@@ -282,11 +383,12 @@
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\Controllers\\CategoryController.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAIwD4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:55:26.821Z"
+              "WhenOpened": "2024-12-10T14:55:26.821Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "UpdateSliderVM.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\ViewModels\\UpdateSliderVM.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\ViewModels\\UpdateSliderVM.cs",
@@ -294,23 +396,25 @@
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\ViewModels\\UpdateSliderVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:22:49.845Z"
+              "WhenOpened": "2024-12-10T14:22:49.845Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 20,
               "Title": "Update.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\Views\\Slider\\Update.cshtml",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACUAAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAABKwCUAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-10T14:33:00.548Z"
+              "WhenOpened": "2024-12-10T14:33:00.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "GetCategoryAdminVM.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\ViewModels\\GetCategoryAdminVM.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\ViewModels\\GetCategoryAdminVM.cs",
@@ -318,11 +422,12 @@
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\ViewModels\\GetCategoryAdminVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T15:02:48.711Z"
+              "WhenOpened": "2024-12-10T15:02:48.711Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 19,
               "Title": "FileValidator.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Utils\\FileValidator.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Utils\\FileValidator.cs",
@@ -330,11 +435,12 @@
               "RelativeToolTip": "AllUpProject\\Utils\\FileValidator.cs",
               "ViewState": "AgIAACAAAAAAAAAAAAAcwDwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T14:33:38.478Z"
+              "WhenOpened": "2024-12-04T14:33:38.478Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 21,
               "Title": "FileSize.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Utils\\FileSize.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Utils\\FileSize.cs",
@@ -342,11 +448,12 @@
               "RelativeToolTip": "AllUpProject\\Utils\\FileSize.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-10T14:21:54.448Z"
+              "WhenOpened": "2024-12-10T14:21:54.448Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 23,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
@@ -354,11 +461,12 @@
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T13:48:36.666Z"
+              "WhenOpened": "2024-11-27T13:48:36.666Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
@@ -366,11 +474,12 @@
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\Views\\Slider\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-04T14:25:01.069Z"
+              "WhenOpened": "2024-12-04T14:25:01.069Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "SliderVM.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\ViewModels\\SliderVM.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\ViewModels\\SliderVM.cs",
@@ -378,23 +487,12 @@
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\ViewModels\\SliderVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-04T13:44:15.764Z"
+              "WhenOpened": "2024-12-04T13:44:15.764Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "AllUpProject\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "AllUpProject\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAIBCwCAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:43:01.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Program.cs",
               "RelativeDocumentMoniker": "AllUpProject\\Program.cs",
@@ -402,11 +500,12 @@
               "RelativeToolTip": "AllUpProject\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-21T13:44:16.385Z"
+              "WhenOpened": "2024-11-21T13:44:16.385Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Views\\_ViewImports.cshtml",
@@ -414,23 +513,25 @@
               "RelativeToolTip": "AllUpProject\\Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-07T12:24:40.237Z"
+              "WhenOpened": "2024-12-07T12:24:40.237Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "AllUpProject\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBTwAsAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T13:40:55.374Z"
+              "WhenOpened": "2024-11-21T13:40:55.374Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 28,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
@@ -438,23 +539,25 @@
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T13:39:36.473Z"
+              "WhenOpened": "2024-11-27T13:39:36.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\Views\\Slider\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAIBTwBYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T14:01:12.672Z"
+              "WhenOpened": "2024-11-27T14:01:12.672Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "_AdminLayout.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
@@ -462,23 +565,25 @@
               "RelativeToolTip": "AllUpProject\\Areas\\Admin\\Views\\Shared\\_AdminLayout.cshtml",
               "ViewState": "AgIAAPsAAAAAAAAAAAA2wBoBAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-27T13:53:08.992Z"
+              "WhenOpened": "2024-11-27T13:53:08.992Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "AllUpProject\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAHAFAAAAAAAAAAAAAH0FAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAG0FAAAAAAAAAIBTwH0FAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T13:35:11.707Z"
+              "WhenOpened": "2024-11-21T13:35:11.707Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 32,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\appsettings.json",
               "RelativeDocumentMoniker": "AllUpProject\\appsettings.json",
@@ -486,11 +591,12 @@
               "RelativeToolTip": "AllUpProject\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-22T13:46:15.473Z"
+              "WhenOpened": "2024-11-22T13:46:15.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 33,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\pc\\OneDrive\\Masa\u00FCst\u00FC\\AllUpProject\\AllUpProject\\AllUpProject\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "AllUpProject\\Views\\_ViewStart.cshtml",
@@ -498,7 +604,8 @@
               "RelativeToolTip": "AllUpProject\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-11-21T13:40:26.002Z"
+              "WhenOpened": "2024-11-21T13:40:26.002Z",
+              "EditorCaption": ""
             }
           ]
         }
